@@ -1,7 +1,7 @@
 # Server-Security
 
 
-# By:POLAT BOT 
+# By:yAshex
 
 # Dastkari Perfix maka begoret ish nakat tanha baw perfix botaka ish xhoi dakat.
 
